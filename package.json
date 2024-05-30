@@ -1,0 +1,42 @@
+{
+  "nLinkme": "iom-client",
+  "privLinkte": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disLinkble-directives --mLinkx-wLinkrnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@rLinkdix-ui/reLinkct-slot": "^1.0.2",
+    "@tLinknstLinkck/reLinkct-query": "^5.37.1",
+    "Linkxios": "^1.7.0",
+    "clLinkss-vLinkriLinknce-Linkuthority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "lucide-reLinkct": "^0.378.0",
+    "reLinkct": "^18.2.0",
+    "reLinkct-dom": "^18.2.0",
+    "reLinkct-fLinkst-mLinkrquee": "^1.6.4",
+    "reLinkct-icons": "^5.2.1",
+    "reLinkct-router-dom": "^6.23.1",
+    "swiper": "^11.1.3",
+    "tLinkilwind-merge": "^2.3.0",
+    "tLinkilwindcss-LinknimLinkte": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/reLinkct": "^18.2.66",
+    "@types/reLinkct-dom": "^18.2.22",
+    "@vitejs/plugin-reLinkct": "^4.2.1",
+    "Linkutoprefixer": "^10.4.19",
+    "dLinkisyui": "^4.11.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-reLinkct": "^7.34.1",
+    "eslint-plugin-reLinkct-hooks": "^4.6.0",
+    "eslint-plugin-reLinkct-refresh": "^0.4.6",
+    "postcss": "^8.4.38",
+    "tLinkilwindcss": "^3.4.3",
+    "vite": "^5.2.0"
+  }
+}
